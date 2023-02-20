@@ -1,0 +1,74 @@
+[
+  {
+    "uid": 1,
+    "image": "./imgs/pic1.jpg",
+    "name": "Olivia Lay",
+    "message": "hey! How are you doing ✨",
+    "messageTime": "1:40 PM",
+    "isOnline": false,
+    "sent": true
+  },
+  {
+    "uid": 2,
+    "image": "./imgs/pic2.jpg",
+    "name": "Leo Simson",
+    "message": "Hello! It looks like youve been inactive for a while.",
+    "messageTime": "3:40 AM",
+    "isOnline": true,
+    "sent": true
+  },
+  {
+    "uid": 3,
+    "image": "./imgs/pic3.jpg",
+    "name": "Roman Slave",
+    "message": "Do you need any assistance",
+    "messageTime": "11:40 AM",
+    "isOnline": false,
+    "sent": false
+  },
+  {
+    "uid": 4,
+    "image": "./imgs/pic4.jpg",
+    "name": "Hudson Hill",
+    "message": "I can certainly help you with that.",
+    "messageTime": "11:10 PM",
+    "isOnline": false,
+    "sent": true
+  },
+  {
+    "uid": 5,
+    "image": "./imgs/pic5.jpg",
+    "name": "Jack Jones",
+    "message": "I can certainly help you with that.",
+    "messageTime": "7:39 AM",
+    "isOnline": false,
+    "sent": false
+  },
+  {
+    "uid": 6,
+    "image": "./imgs/pic6.jpg",
+    "name": "anime boy",
+    "message": "I can certainly help you with that.",
+    "messageTime": "7:39 AM",
+    "isOnline": false,
+    "sent": false
+  },
+  {
+    "uid": 7,
+    "image": "./imgs/pic7.jpg",
+    "name": "mob 100",
+    "message": "I can certainly help you with that.",
+    "messageTime": "7:39 AM",
+    "isOnline": false,
+    "sent": true
+  },
+  {
+    "uid": 8,
+    "image": "./imgs/pic8.jpg",
+    "name": "lore pale",
+    "message": "I can certainly help you with that.",
+    "messageTime": "7:39 AM",
+    "isOnline": false,
+    "sent": true
+  }
+]
